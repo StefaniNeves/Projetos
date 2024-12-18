@@ -1,0 +1,20 @@
+# Número de pontos de coleta
+10
+
+# Vizinhos dos pontos (formato: ponto custo)
+1: 2 15, 3 20
+2: 1 15, 4 18, 7 25
+3: 1 20, 5 12, 8 30
+4: 2 18, 6 22
+5: 3 12, 6 10
+6: 4 22, 5 10, 7 16
+7: 2 25, 6 16, 8 20
+8: 7 20, 9 50, 3 30
+9: 8 50, 10 70
+10: 9 70
+
+# Quantidade de lixo em metros cúbicos por ponto
+10 20 15 12 8 18 25 10 14 22
+
+# Localização do aterro sanitário e do centro de zoonoses
+10 9
